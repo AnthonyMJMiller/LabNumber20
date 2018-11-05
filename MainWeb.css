@@ -1,0 +1,41 @@
+h1{
+  color: darkblue;
+  text-align: center;
+}
+
+h2{
+  color: skyblue;
+  text-align: left;
+}
+
+.links{
+  display:inline;
+          list-style-type: none;
+          margin: 300px;
+          padding: 50px
+}
+
+.About{
+font-size: 20;
+font-family: impact;
+text-align: center;
+}
+
+.contactinfo{
+  border-style: solid;
+  border: 10px blue;
+  background-color: black;
+  color: white;
+
+}
+
+MainIndex{
+  font-size: 20;
+  font-family: impact;
+  text-align: center;
+}
+
+footer {margin:0;}
+
+nav ul{margin:0;
+      display:inline;}
